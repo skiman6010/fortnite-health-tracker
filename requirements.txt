@@ -1,0 +1,6 @@
+numpy
+pytesseract
+requests
+cv2
+Pillow
+flask

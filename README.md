@@ -1,3 +1,4 @@
+![Nice logo for u](https://github.com/koutsie/fortnite-health-tracker/raw/master/healtracker.png)
 # fortnite-health-tracker
 A python application that tracks your health in fortnite that has an optional nerf gun shooting flask server.
 

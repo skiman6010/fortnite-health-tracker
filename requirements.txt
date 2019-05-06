@@ -1,6 +1,6 @@
 numpy
 pytesseract
 requests
-cv2
+opencv-python
 Pillow
 flask

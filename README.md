@@ -1,8 +1,7 @@
-![Nice logo for u](https://github.com/koutsie/fortnite-health-tracker/raw/master/healtracker.png)
-# fortnite-health-tracker
-A python application that tracks your health in fortnite that has an optional nerf gun shooting flask server.
+# Melee Health Tracker
+A python application that tracks your health in Super Smash Bros Melee that also tells you that you suck when player 1 takes damage
 
-#Credits: Michael Reeves
+#Credits: Michael Reeves for the idea
 [Source](https://bitbucket.org/mtreeves808/footnot-health-detection/)
 
 #Setup
@@ -22,7 +21,7 @@ pip3 install -r requirements.txt
 
 #Running
 ```
-python3 main.py
+python3 client/main.py
 ```
 
 **Note: the server is optional it is not required if you are just going to use the health detection then only worry about the client folder.**
